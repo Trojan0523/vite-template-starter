@@ -2,14 +2,16 @@
 use vite as a middleware instance to create a frontend develop environment
 
 #### Stack
-- typeScript tsx
-- Vite
-- express
-- Vue3
-- vue-router4
-- pinia
-- pnpm
-- scss
-- vitest
-- vitepress
-- monorepo
+- extensiion abiblity: typeScript tsx
+- bundless tool/packing tool: Vite
+- static server: express
+- frontend library: Vue3
+- global router management tool: vue-router4
+- global store management: pinia
+- package manager: pnpm
+- progarm organization: monorepo
+- style precomprocessor: scss
+- test tool: vitest
+- doc system: vitepress
+- Lint: EsLint, commitlint
+- commit check: husky
